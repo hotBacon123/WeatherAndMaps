@@ -1,0 +1,64 @@
+c:\users\lab305.lecturer\documents\visual studio 2013\Projects\weather\weather\bin\Debug\weather.exe.config
+c:\users\lab305.lecturer\documents\visual studio 2013\Projects\weather\weather\bin\Debug\weather.exe
+c:\users\lab305.lecturer\documents\visual studio 2013\Projects\weather\weather\bin\Debug\weather.pdb
+c:\users\lab305.lecturer\documents\visual studio 2013\Projects\weather\weather\obj\Debug\weather.csprojResolveAssemblyReference.cache
+c:\users\lab305.lecturer\documents\visual studio 2013\Projects\weather\weather\obj\Debug\weather.Properties.Resources.resources
+c:\users\lab305.lecturer\documents\visual studio 2013\Projects\weather\weather\obj\Debug\weather.csproj.GenerateResource.Cache
+c:\users\lab305.lecturer\documents\visual studio 2013\Projects\weather\weather\obj\Debug\weather.exe
+c:\users\lab305.lecturer\documents\visual studio 2013\Projects\weather\weather\obj\Debug\weather.pdb
+C:\Users\Lab305.lecturer\documents\visual studio 2013\Projects\weather\weather\obj\Debug\weather.Weather.resources
+D:\student_305_12\Desktop\weather\weather\bin\Debug\weather.exe.config
+D:\student_305_12\Desktop\weather\weather\obj\Debug\weather.exe
+D:\student_305_12\Desktop\weather\weather\obj\Debug\weather.pdb
+D:\student_305_12\Desktop\weather\weather\bin\Debug\weather.exe
+D:\student_305_12\Desktop\weather\weather\bin\Debug\weather.pdb
+D:\student_305_12\Desktop\weather\weather\obj\Debug\weather.csprojResolveAssemblyReference.cache
+D:\student_305_12\Desktop\weather\weather\obj\Debug\weather.Weather.resources
+D:\student_305_12\Desktop\weather\weather\obj\Debug\weather.Properties.Resources.resources
+D:\student_305_12\Desktop\weather\weather\obj\Debug\weather.csproj.GenerateResource.Cache
+D:\student_305_12\Desktop\weather\weather\bin\Debug\GMap.NET.Core.xml
+D:\student_305_12\Desktop\weather\weather\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\NIKA\Desktop\weatherprojects\weather0.1\weather\bin\Debug\weather.exe.config
+C:\Users\NIKA\Desktop\weatherprojects\weather0.1\weather\obj\Debug\weather.exe
+C:\Users\NIKA\Desktop\weatherprojects\weather0.1\weather\obj\Debug\weather.pdb
+C:\Users\NIKA\Desktop\weatherprojects\weather0.1\weather\bin\Debug\weather.exe
+C:\Users\NIKA\Desktop\weatherprojects\weather0.1\weather\bin\Debug\weather.pdb
+C:\Users\NIKA\Desktop\weatherprojects\weather0.1\weather\bin\Debug\GMap.NET.Core.xml
+C:\Users\NIKA\Desktop\weatherprojects\weather0.1\weather\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\NIKA\Desktop\weatherprojects\weather0.1\weather\obj\Debug\weather.csprojResolveAssemblyReference.cache
+C:\Users\NIKA\Desktop\weatherprojects\weather0.1\weather\obj\Debug\weather.Weather.resources
+C:\Users\NIKA\Desktop\weatherprojects\weather0.1\weather\obj\Debug\weather.Properties.Resources.resources
+C:\Users\NIKA\Desktop\weatherprojects\weather0.1\weather\obj\Debug\weather.csproj.GenerateResource.Cache
+C:\Users\NINIK0\Desktop\weather0.1\weather\bin\Debug\weather.exe.config
+C:\Users\NINIK0\Desktop\weather0.1\weather\bin\Debug\weather.exe
+C:\Users\NINIK0\Desktop\weather0.1\weather\bin\Debug\weather.pdb
+C:\Users\NINIK0\Desktop\weather0.1\weather\bin\Debug\GMap.NET.Core.xml
+C:\Users\NINIK0\Desktop\weather0.1\weather\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\NINIK0\Desktop\weather0.1\weather\obj\Debug\weather.csprojResolveAssemblyReference.cache
+C:\Users\NINIK0\Desktop\weather0.1\weather\obj\Debug\weather.Weather.resources
+C:\Users\NINIK0\Desktop\weather0.1\weather\obj\Debug\weather.Properties.Resources.resources
+C:\Users\NINIK0\Desktop\weather0.1\weather\obj\Debug\weather.csproj.GenerateResource.Cache
+C:\Users\NINIK0\Desktop\weather0.1\weather\obj\Debug\weather.exe
+C:\Users\NINIK0\Desktop\weather0.1\weather\obj\Debug\weather.pdb
+C:\Users\NIKA\Desktop\C#\weatherprojects\weather\bin\Debug\weather.exe.config
+C:\Users\NIKA\Desktop\C#\weatherprojects\weather\obj\Debug\weather.exe
+C:\Users\NIKA\Desktop\C#\weatherprojects\weather\obj\Debug\weather.pdb
+C:\Users\NIKA\Desktop\C#\weatherprojects\weather\bin\Debug\weather.exe
+C:\Users\NIKA\Desktop\C#\weatherprojects\weather\bin\Debug\weather.pdb
+C:\Users\NIKA\Desktop\C#\weatherprojects\weather\bin\Debug\GMap.NET.Core.xml
+C:\Users\NIKA\Desktop\C#\weatherprojects\weather\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\NIKA\Desktop\C#\weatherprojects\weather\obj\Debug\weather.csprojResolveAssemblyReference.cache
+C:\Users\NIKA\Desktop\C#\weatherprojects\weather\obj\Debug\weather.Weather.resources
+C:\Users\NIKA\Desktop\C#\weatherprojects\weather\obj\Debug\weather.Properties.Resources.resources
+C:\Users\NIKA\Desktop\C#\weatherprojects\weather\obj\Debug\weather.csproj.GenerateResource.Cache
+C:\Users\nika\Desktop\weather_ver_0.1\weather\bin\Debug\weather.exe.config
+C:\Users\nika\Desktop\weather_ver_0.1\weather\bin\Debug\weather.exe
+C:\Users\nika\Desktop\weather_ver_0.1\weather\bin\Debug\weather.pdb
+C:\Users\nika\Desktop\weather_ver_0.1\weather\bin\Debug\GMap.NET.Core.xml
+C:\Users\nika\Desktop\weather_ver_0.1\weather\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\nika\Desktop\weather_ver_0.1\weather\obj\Debug\weather.csprojResolveAssemblyReference.cache
+C:\Users\nika\Desktop\weather_ver_0.1\weather\obj\Debug\weather.Weather.resources
+C:\Users\nika\Desktop\weather_ver_0.1\weather\obj\Debug\weather.Properties.Resources.resources
+C:\Users\nika\Desktop\weather_ver_0.1\weather\obj\Debug\weather.csproj.GenerateResource.Cache
+C:\Users\nika\Desktop\weather_ver_0.1\weather\obj\Debug\weather.exe
+C:\Users\nika\Desktop\weather_ver_0.1\weather\obj\Debug\weather.pdb
