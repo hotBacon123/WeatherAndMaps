@@ -62,3 +62,14 @@ C:\Users\nika\Desktop\weather_ver_0.1\weather\obj\Debug\weather.Properties.Resou
 C:\Users\nika\Desktop\weather_ver_0.1\weather\obj\Debug\weather.csproj.GenerateResource.Cache
 C:\Users\nika\Desktop\weather_ver_0.1\weather\obj\Debug\weather.exe
 C:\Users\nika\Desktop\weather_ver_0.1\weather\obj\Debug\weather.pdb
+C:\Users\nika\WeatherAndMaps\weather\bin\Debug\weather.exe.config
+C:\Users\nika\WeatherAndMaps\weather\bin\Debug\weather.exe
+C:\Users\nika\WeatherAndMaps\weather\bin\Debug\weather.pdb
+C:\Users\nika\WeatherAndMaps\weather\bin\Debug\GMap.NET.Core.xml
+C:\Users\nika\WeatherAndMaps\weather\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\nika\WeatherAndMaps\weather\obj\Debug\weather.csprojResolveAssemblyReference.cache
+C:\Users\nika\WeatherAndMaps\weather\obj\Debug\weather.Weather.resources
+C:\Users\nika\WeatherAndMaps\weather\obj\Debug\weather.Properties.Resources.resources
+C:\Users\nika\WeatherAndMaps\weather\obj\Debug\weather.csproj.GenerateResource.Cache
+C:\Users\nika\WeatherAndMaps\weather\obj\Debug\weather.exe
+C:\Users\nika\WeatherAndMaps\weather\obj\Debug\weather.pdb

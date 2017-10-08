@@ -178,6 +178,7 @@ namespace weather
                 gMapControl1.Width = 1370;
                 gMapControl1.Height = 780;
                 gMapControl1.Location = new Point(0, 0);
+                button3.Location = new Point(0,0);
                 
                 fullscreen = true;
             }
@@ -189,6 +190,8 @@ namespace weather
                 gMapControl1.Width = 645;
                 gMapControl1.Height =731;
                 gMapControl1.Location = new Point(713, -2);
+                button3.Location = new Point(793, 0);
+
                 fullscreen = false; 
             }
             
